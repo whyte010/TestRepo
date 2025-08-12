@@ -8,6 +8,7 @@ public class Split {
 		//The split() method in Java is used to divide a Strig into an array of substrings 
 		//based on a specified delimiter (a regular expression).
 		//Adding a comment
+		//Another comment
 
 		
 		String sentence = "Jesus is King";
@@ -36,5 +37,6 @@ public class Split {
 	}
 
 }
+
 
 
