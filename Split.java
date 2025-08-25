@@ -12,7 +12,7 @@ public class Split {
 		System.out.println("God is Merciful");
 		System.out.println("God is the Greatest");
 		System.out.println("God is Awesome");
-		// Addedd
+		// Added
 		// Sub
 
 		String sentence = "Jesus is King";
