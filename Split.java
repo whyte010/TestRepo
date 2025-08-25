@@ -10,6 +10,8 @@ public class Split {
 		// based on a specified delimiter (a regular expression).
 		System.out.println("God is Faithful");
 		System.out.println("God is Merciful");
+		System.out.println("God is the Greatest");
+		System.out.println("God is Awesome");
 
 		String sentence = "Jesus is King";
 		String[] words = sentence.split(" "); // The space " " is the delimiter
