@@ -12,6 +12,8 @@ public class Split {
 		System.out.println("God is Merciful");
 		System.out.println("God is the Greatest");
 		System.out.println("God is Awesome");
+		// Addedd
+		// Sub
 
 		String sentence = "Jesus is King";
 		String[] words = sentence.split(" "); // The space " " is the delimiter
